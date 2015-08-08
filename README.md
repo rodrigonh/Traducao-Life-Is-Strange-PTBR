@@ -11,10 +11,10 @@ A tradução está recém em seus primeiros passos. O menu principal já está q
 
 Obs.: A tradução está sendo feita junto à gameplay em tempo real do jogo, entre dois computadores, como garantia de que essa tradução não terá qualquer tipo de erro. Caso tenha, haverá inúmeras atualizações e correções disponíveis nessa página.
 
-## Instalação Manual
-
-<Não disponível>
-
 ## Instalação
 
-<Não disponível>
+Não disponível
+
+## Instalação Manual
+
+Não disponível
