@@ -4,7 +4,7 @@ Projeto de tradução definitiva para o jogo "Life Is Strange", desenvolvido pel
 
 ### Progresso
 
-A tradução está recém em seus primeiros passos. O menu principal já está quase concluido.
+A tradução está recém em seus primeiros passos. O menu principal já está praticamente concluído, assim como todas strings/palavras da HUD do jogo.
 
 ![Screenshot](http://i.imgur.com/xdjEpn1.png)
 <!-- ![Screenshot](http://i.imgur.com/dRkx6sH.png) Spoiler :P -->
